@@ -1,0 +1,26 @@
+_repo: A-Claim-on-KlondykeA-Romance-of-the-Arctic-El-Dorado_36577
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36577-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Roper, Edward
+    gutenberg_agent_id: '38359'
+    url: http://www.gutenberg.org/2009/agents/38359
+description: ''
+gutenberg_issued: '2011-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36577'
+  lccn: 08001660
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Klondike River Valley (Yukon) -- Fiction'
+- !lcsh 'Arctic regions -- Fiction'
+title: 'A Claim on Klondyke: A Romance of the Arctic El Dorado'
+url: http://www.gutenberg.org/ebooks/36577
